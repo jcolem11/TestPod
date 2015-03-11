@@ -1,0 +1,8 @@
+source 'https://github.com/CocoaPods/Specs.git'
+
+
+target 'Otherpod', :exclusive => true do
+  pod "Otherpod", :path => "../"
+
+  
+end
