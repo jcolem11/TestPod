@@ -1,0 +1,14 @@
+PODS:
+  - Otherpod (0.1.0)
+
+DEPENDENCIES:
+  - Otherpod (from `../`)
+
+EXTERNAL SOURCES:
+  Otherpod:
+    :path: ../
+
+SPEC CHECKSUMS:
+  Otherpod: 81834e41d03843d56b3a8315f20478f9bf9885cf
+
+COCOAPODS: 0.35.0
